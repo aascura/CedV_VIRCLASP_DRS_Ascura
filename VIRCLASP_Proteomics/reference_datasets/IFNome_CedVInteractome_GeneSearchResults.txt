@@ -1,0 +1,133 @@
+Ensembl Id	Gene Name	Description	Entrez	Genbank	UniGene
+ENSG00000272391	AC211429.1	cDNA FLJ56876, highly similar to Nuclear envelope pore membrane protein POM 121  [Source:UniProtKB/TrEMBL;Acc:B4DDR5]		BAG56826	
+ENSG00000068366	ACSL4	acyl-CoA synthetase long-chain family member 4 [Source:HGNC Symbol;Acc:3571]	2182		Hs.660281
+ENSG00000072364	AFF4	AF4/FMR2 family, member 4 [Source:HGNC Symbol;Acc:17869]	27125		Hs.519313
+ENSG00000153207	AHCTF1	AT hook containing transcription factor 1 [Source:HGNC Symbol;Acc:24618]	25909		Hs.300887
+ENSG00000124942	AHNAK	AHNAK nucleoprotein [Source:HGNC Symbol;Acc:347]	79026	AAH00926	Hs.703348
+ENSG00000198074	AKR1B10	aldo-keto reductase family 1, member B10 (aldose reductase) [Source:HGNC Symbol;Acc:382]	57016	AAC17469	Hs.116724
+ENSG00000196139	AKR1C3	aldo-keto reductase family 1, member C3 [Source:HGNC Symbol;Acc:386]	8644	AAD14011	Hs.740690
+ENSG00000234009	AL049757.3				
+ENSG00000159063	ALG8	ALG8, alpha-1,3-glucosyltransferase [Source:HGNC Symbol;Acc:23161]	79053	CAA12176	Hs.503368
+ENSG00000011426	ANLN	anillin, actin binding protein [Source:HGNC Symbol;Acc:14082]	54443		Hs.62180
+ENSG00000065000	AP3D1	adaptor-related protein complex 3, delta 1 subunit [Source:HGNC Symbol;Acc:568]	8943	EAW69416	Hs.619533
+ENSG00000134982	APC	adenomatous polyposis coli [Source:HGNC Symbol;Acc:583]	324	ABL98125	Hs.739006
+ENSG00000107863	ARHGAP21	Rho GTPase activating protein 21 [Source:HGNC Symbol;Acc:23725]	57584		Hs.722402
+ENSG00000130707	ASS1	argininosuccinate synthase 1 [Source:HGNC Symbol;Acc:758]	445		Hs.160786
+ENSG00000070961	ATP2B1	ATPase, Ca++ transporting, plasma membrane 1 [Source:HGNC Symbol;Acc:814]	490		Hs.705540
+ENSG00000160862	AZGP1	alpha-2-glycoprotein 1, zinc-binding [Source:HGNC Symbol;Acc:910]	563		Hs.546239
+ENSG00000009954	BAZ1B	bromodomain adjacent to zinc finger domain, 1B [Source:HGNC Symbol;Acc:961]	9031	AAD08675	Hs.743372
+ENSG00000029363	BCLAF1	BCL2-associated transcription factor 1 [Source:HGNC Symbol;Acc:16863]	9774		Hs.718334
+ENSG00000171634	BPTF	bromodomain PHD finger transcription factor [Source:HGNC Symbol;Acc:3581]	2186	AAH50566	Hs.739081
+ENSG00000262858	BPTF	bromodomain PHD finger transcription factor [Source:HGNC Symbol;Acc:3581]	2186	AAH50566	Hs.739081
+ENSG00000130559	CAMSAP1	calmodulin regulated spectrin-associated protein 1 [Source:HGNC Symbol;Acc:19946]	157922	CAD58627	Hs.726283
+ENSG00000103502	CDIPT	CDP-diacylglycerol--inositol 3-phosphatidyltransferase [Source:HGNC Symbol;Acc:1769]	10423		Hs.745465
+ENSG00000147889	CDKN2A	cyclin-dependent kinase inhibitor 2A [Source:HGNC Symbol;Acc:1787]	1029		Hs.661650
+ENSG00000143702	CEP170	centrosomal protein 170kDa [Source:HGNC Symbol;Acc:28920]	9859		Hs.733787
+ENSG00000154608	CEP170P1	centrosomal protein 170kDa pseudogene 1 [Source:HGNC Symbol;Acc:28364]	645455		Hs.408293
+ENSG00000153922	CHD1	chromodomain helicase DNA binding protein 1 [Source:HGNC Symbol;Acc:1915]	1105		Hs.718669
+ENSG00000169504	CLIC4	chloride intracellular channel 4 [Source:HGNC Symbol;Acc:13518]	25932	BAG62986	Hs.611641
+ENSG00000108821	COL1A1	collagen, type I, alpha 1 [Source:HGNC Symbol;Acc:2197]	1277		Hs.744900
+ENSG00000248966	CTD-2089O24.1				
+ENSG00000165732	DDX21	DEAD (Asp-Glu-Ala-Asp) box helicase 21 [Source:HGNC Symbol;Acc:2744]	9188	BAB93481	Hs.223141
+ENSG00000101191	DIDO1	death inducer-obliterator 1 [Source:HGNC Symbol;Acc:2680]	11083	AAS49898	Hs.713343
+ENSG00000110047	EHD1	EH-domain containing 1 [Source:HGNC Symbol;Acc:3242]	10938		Hs.741731
+ENSG00000107581	EIF3A	eukaryotic translation initiation factor 3, subunit A [Source:HGNC Symbol;Acc:3271]	8661		Hs.657236
+ENSG00000012660	ELOVL5	ELOVL fatty acid elongase 5 [Source:HGNC Symbol;Acc:21308]	60481		Hs.745069
+ENSG00000158234	FAIM	Fas apoptotic inhibitory molecule [Source:HGNC Symbol;Acc:18703]	55179		Hs.705623
+ENSG00000087460	GNAS	GNAS complex locus [Source:HGNC Symbol;Acc:4392]	2778	CAA27996	Hs.694849
+ENSG00000117262	GPR89A	G protein-coupled receptor 89A [Source:HGNC Symbol;Acc:31984]	51463		Hs.645432
+ENSG00000188092	GPR89B	G protein-coupled receptor 89B [Source:HGNC Symbol;Acc:13840]	51463		
+ENSG00000167468	GPX4	glutathione peroxidase 4 [Source:HGNC Symbol;Acc:4556]	2879		Hs.601590
+ENSG00000148180	GSN	gelsolin [Source:HGNC Symbol;Acc:4620]	2934		Hs.737270
+ENSG00000128731	HERC2	HECT and RLD domain containing E3 ubiquitin protein ligase 2 [Source:HGNC Symbol;Acc:4868]	8924		Hs.741019
+ENSG00000263162	HERC2	HECT and RLD domain containing E3 ubiquitin protein ligase 2 [Source:HGNC Symbol;Acc:4868]	8924	AAD08657	Hs.741019
+ENSG00000106211	HSPB1	heat shock 27kDa protein 1 [Source:HGNC Symbol;Acc:5246]	3315		Hs.726398
+ENSG00000163565	IFI16	interferon, gamma-inducible protein 16 [Source:HGNC Symbol;Acc:5395]	3428	AAA58683	Hs.629190
+ENSG00000166333	ILK	integrin-linked kinase [Source:HGNC Symbol;Acc:6040]	3611	BAH12404	Hs.706355
+ENSG00000145703	IQGAP2	IQ motif containing GTPase activating protein 2 [Source:HGNC Symbol;Acc:6111]	10788		Hs.291030
+ENSG00000176076	KCNE1L	KCNE1-like [Source:HGNC Symbol;Acc:6241]	23630	ABB00307	Hs.522753
+ENSG00000120733	KDM3B	lysine (K)-specific demethylase 3B [Source:HGNC Symbol;Acc:1337]	51780		Hs.745018
+ENSG00000197077	KIAA1671	KIAA1671 [Source:HGNC Symbol;Acc:29345]	85379	BAB33341	Hs.719323
+ENSG00000118193	KIF14	kinesin family member 14 [Source:HGNC Symbol;Acc:19181]	9928	BAA05392	Hs.3104
+ENSG00000050405	LIMA1	LIM domain and actin binding 1 [Source:HGNC Symbol;Acc:24636]	51474	BAD92749	Hs.525419
+ENSG00000160789	LMNA	lamin A/C [Source:HGNC Symbol;Acc:6636]	4000		Hs.707716
+ENSG00000169641	LUZP1	leucine zipper protein 1 [Source:HGNC Symbol;Acc:14985]	7798		Hs.654306
+ENSG00000172175	MALT1	mucosa associated lymphoid tissue lymphoma translocation gene 1 [Source:HGNC Symbol;Acc:6819]	10892		Hs.599516
+ENSG00000137337	MDC1	mediator of DNA-damage checkpoint 1 [Source:HGNC Symbol;Acc:21163]	9656		Hs.710124
+ENSG00000148773	MKI67	marker of proliferation Ki-67 [Source:HGNC Symbol;Acc:7107]	4288	CAA46519	Hs.80976
+ENSG00000198786	MT-ND5	mitochondrially encoded NADH dehydrogenase 5 [Source:HGNC Symbol;Acc:7461]	4540	ABL09525	Hs.694509
+ENSG00000065534	MYLK	myosin light chain kinase [Source:HGNC Symbol;Acc:7590]	4638	BAG62305	Hs.715052
+ENSG00000176658	MYO1D	myosin ID [Source:HGNC Symbol;Acc:7598]	4642		Hs.740025
+ENSG00000058804	NDC1	NDC1 transmembrane nucleoporin [Source:HGNC Symbol;Acc:25525]	55706	BAG64078	Hs.706198
+ENSG00000196712	NF1	neurofibromin 1 [Source:HGNC Symbol;Acc:7765]	4763	BAG63383	Hs.721732
+ENSG00000183249	NF1P3	neurofibromin 1 pseudogene 3 [Source:HGNC Symbol;Acc:7766]			
+ENSG00000115761	NOL10	nucleolar protein 10 [Source:HGNC Symbol;Acc:25862]	79954		Hs.610620
+ENSG00000198000	NOL8	nucleolar protein 8 [Source:HGNC Symbol;Acc:23387]	55035		Hs.442199
+ENSG00000181019	NQO1	NAD(P)H dehydrogenase, quinone 1 [Source:HGNC Symbol;Acc:2874]	1728	BAG59630	Hs.707431
+ENSG00000124789	NUP153	nucleoporin 153kDa [Source:HGNC Symbol;Acc:8062]	9972		
+ENSG00000126883	NUP214	nucleoporin 214kDa [Source:HGNC Symbol;Acc:8064]	8021	BAG64146	Hs.671104
+ENSG00000007168	PAFAH1B1	platelet-activating factor acetylhydrolase 1b, regulatory subunit 1 (45kDa) [Source:HGNC Symbol;Acc:8574]	5048	BAG57299	Hs.77318
+ENSG00000148498	PARD3	par-3 family cell polarity regulator [Source:HGNC Symbol;Acc:16051]	56288		Hs.618469
+ENSG00000196923	PDLIM7	PDZ and LIM domain 7 (enigma) [Source:HGNC Symbol;Acc:22958]	9260		
+ENSG00000118482	PHF3	PHD finger protein 3 [Source:HGNC Symbol;Acc:8921]	23469	AAF21292	Hs.736848
+ENSG00000146247	PHIP	pleckstrin homology domain interacting protein [Source:HGNC Symbol;Acc:15673]	55023	CAC83118	Hs.737814
+ENSG00000196313	POM121	POM121 transmembrane nucleoporin [Source:HGNC Symbol;Acc:19702]	9883	BAA31593	Hs.655217
+ENSG00000135213	POM121C	POM121 transmembrane nucleoporin C [Source:HGNC Symbol;Acc:34005]	100101267		Hs.734581
+ENSG00000138398	PPIG	peptidylprolyl isomerase G (cyclophilin G) [Source:HGNC Symbol;Acc:14650]	9360		Hs.745483
+ENSG00000253729	PRKDC	protein kinase, DNA-activated, catalytic polypeptide [Source:HGNC Symbol;Acc:9413]	5591	AAB39925	Hs.714391
+ENSG00000117360	PRPF3	pre-mRNA processing factor 3 [Source:HGNC Symbol;Acc:17348]	9129	BAG61801	Hs.11776
+ENSG00000265228	PRPF3	pre-mRNA processing factor 3 [Source:HGNC Symbol;Acc:17348]	9129	BAG61801	Hs.11776
+ENSG00000204469	PRRC2A	proline-rich coiled-coil 2A [Source:HGNC Symbol;Acc:13918]	7916	AAA35585	Hs.436093
+ENSG00000130723	PRRC2B	proline-rich coiled-coil 2B [Source:HGNC Symbol;Acc:28121]	84726	BAG64539	Hs.743955
+ENSG00000153201	RANBP2	RAN binding protein 2 [Source:HGNC Symbol;Acc:9848]	5903		Hs.715056
+ENSG00000122257	RBBP6	retinoblastoma binding protein 6 [Source:HGNC Symbol;Acc:9889]	5930	BAC77636	Hs.614143
+ENSG00000184863	RBM33	RNA binding motif protein 33 [Source:HGNC Symbol;Acc:27223]	155435		Hs.644464
+ENSG00000035928	RFC1	replication factor C (activator 1) 1, 145kDa [Source:HGNC Symbol;Acc:9969]	5981		Hs.507475
+ENSG00000153165	RGPD3	RANBP2-like and GRIP domain containing 3 [Source:HGNC Symbol;Acc:32416]	653489	AFJ19142	
+ENSG00000196862	RGPD4	RANBP2-like and GRIP domain containing 4 [Source:HGNC Symbol;Acc:32417]	285190	AFJ19142	
+ENSG00000183054	RGPD6	RANBP2-like and GRIP domain containing 6 [Source:HGNC Symbol;Acc:32419]	84220		Hs.726367
+ENSG00000169629	RGPD8	RANBP2-like and GRIP domain containing 8 [Source:HGNC Symbol;Acc:9849]	84220		Hs.736851
+ENSG00000173821	RNF213	ring finger protein 213 [Source:HGNC Symbol;Acc:14539]	57674		Hs.745415
+ENSG00000225093	RP1-111B22.2				
+ENSG00000243736	RP1-136J15.3				Hs.660281
+ENSG00000229638	RP11-110C15.4				
+ENSG00000137970	RP11-122C9.1				
+ENSG00000227525	RP11-282K24.1				
+ENSG00000218418	RP11-296E7.1				
+ENSG00000240376	RP11-36C20.1				
+ENSG00000236739	RP11-370B11.1				
+ENSG00000212664	RP11-592N21.1				
+ENSG00000230207	RP11-87M1.1				
+ENSG00000142541	RPL13A	ribosomal protein L13a [Source:HGNC Symbol;Acc:10304]	23521		Hs.631728
+ENSG00000265681	RPL17	ribosomal protein L17 [Source:HGNC Symbol;Acc:10307]	6139		
+ENSG00000166441	RPL27A	ribosomal protein L27a [Source:HGNC Symbol;Acc:10329]	6157		Hs.745527
+ENSG00000100316	RPL3	ribosomal protein L3 [Source:HGNC Symbol;Acc:10332]	6122		Hs.119598
+ENSG00000232573	RPL3P4	ribosomal protein L3 pseudogene 4 [Source:HGNC Symbol;Acc:19805]			
+ENSG00000174444	RPL4	ribosomal protein L4 [Source:HGNC Symbol;Acc:10353]	6124		Hs.739034
+ENSG00000122406	RPL5	ribosomal protein L5 [Source:HGNC Symbol;Acc:10360]	6083		Hs.616837
+ENSG00000147604	RPL7	ribosomal protein L7 [Source:HGNC Symbol;Acc:10363]	6129	CAA41027	Hs.709045
+ENSG00000185088	RPS27L	ribosomal protein S27-like [Source:HGNC Symbol;Acc:18476]	51065		Hs.620800
+ENSG00000142937	RPS8	ribosomal protein S8 [Source:HGNC Symbol;Acc:10441]	6202	BAG34795	
+ENSG00000125844	RRBP1	ribosome binding protein 1 [Source:HGNC Symbol;Acc:10448]	6238		
+ENSG00000160208	RRP1B	ribosomal RNA processing 1B [Source:HGNC Symbol;Acc:23818]	23076	AAH28386	Hs.565725
+ENSG00000048649	RSF1	remodeling and spacing factor 1 [Source:HGNC Symbol;Acc:18118]	51773		Hs.745338
+ENSG00000171490	RSL1D1	ribosomal L1 domain containing 1 [Source:HGNC Symbol;Acc:24534]	26156	AAH16362	Hs.620787
+ENSG00000143556	S100A7	S100 calcium binding protein A7 [Source:HGNC Symbol;Acc:10497]	6278	AAA60210	
+ENSG00000184330	S100A7A	S100 calcium binding protein A7A [Source:HGNC Symbol;Acc:21657]	338324	AAO40033	
+ENSG00000143546	S100A8	S100 calcium binding protein A8 [Source:HGNC Symbol;Acc:10498]	6279	CAA29580	
+ENSG00000163220	S100A9	S100 calcium binding protein A9 [Source:HGNC Symbol;Acc:10499]	6280	CAA29579	
+ENSG00000161956	SENP3	SUMO1/sentrin/SMT3 specific peptidase 3 [Source:HGNC Symbol;Acc:17862]	26168	AAG33252	Hs.685791
+ENSG00000080493	SLC4A4	solute carrier family 4 (sodium bicarbonate cotransporter), member 4 [Source:HGNC Symbol;Acc:11030]	8671	ABQ43327	Hs.5462
+ENSG00000127616	SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4 [Source:HGNC Symbol;Acc:11100]	6597	AAG24790	Hs.741659
+ENSG00000168807	SNTB2	syntrophin, beta 2 (dystrophin-associated protein A1, 59kDa, basic component 2) [Source:HGNC Symbol;Acc:11169]	6645		Hs.717683
+ENSG00000057252	SOAT1	sterol O-acyltransferase 1 [Source:HGNC Symbol;Acc:11177]	6646		Hs.619551
+ENSG00000065526	SPEN	spen family transcriptional repressor [Source:HGNC Symbol;Acc:17575]	23013		Hs.744843
+ENSG00000119139	TJP2	tight junction protein 2 [Source:HGNC Symbol;Acc:11828]	9414	AAA61300	Hs.50382
+ENSG00000154310	TNIK	TRAF2 and NCK interacting kinase [Source:HGNC Symbol;Acc:30765]	23043		Hs.34024
+ENSG00000131747	TOP2A	topoisomerase (DNA) II alpha 170kDa [Source:HGNC Symbol;Acc:11989]	7153		Hs.654618
+ENSG00000055483	USP36	ubiquitin specific peptidase 36 [Source:HGNC Symbol;Acc:20062]	57602	BAG51124	Hs.626718
+ENSG00000198554	WDHD1	WD repeat and HMG-box DNA binding protein 1 [Source:HGNC Symbol;Acc:23170]	11169		Hs.385998
+ENSG00000136709	WDR33	WD repeat domain 33 [Source:HGNC Symbol;Acc:25651]	55339		Hs.700855
+ENSG00000058673	ZC3H11A	zinc finger CCCH-type containing 11A [Source:HGNC Symbol;Acc:29093]	9877	BAG59524	Hs.448347
+ENSG00000215817	ZC3H11B	zinc finger CCCH-type containing 11B pseudogene [Source:HGNC Symbol;Acc:25659]			
+ENSG00000171467	ZNF318	zinc finger protein 318 [Source:HGNC Symbol;Acc:13578]	24149		Hs.509718
